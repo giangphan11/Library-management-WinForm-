@@ -25,3 +25,9 @@ C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan l
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\DTO\obj\Debug\DTO.dll
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\DTO\obj\Debug\DTO.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DTO\bin\Debug\DTO.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DTO\bin\Debug\DTO.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DTO\obj\Debug\DTO.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DTO\obj\Debug\DTO.pdb

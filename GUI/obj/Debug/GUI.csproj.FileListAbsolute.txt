@@ -315,3 +315,36 @@ C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan l
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CopyComplete
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.exe
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.ChucVuGUI.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.DocGiaGUI.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.DoiThongTin.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.DoiTuongGUI.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.MuonTheoTheLoaiGUI.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.NgayMuonQuaHanGUI.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.NhanVienGUI.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.QuanLy_MuonSach.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.QuanLy_TraSach.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.TaiLieuGUI.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.TheLoaiGUI.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.Top10TaiLieuGUI.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.TrangChu_QuanTriVien.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.TrangChu_ThuThu.resources
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.exe
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\bin\Debug\GUI.exe
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\bin\Debug\BUS.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\bin\Debug\DAL.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\bin\Debug\DTO.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\bin\Debug\itextsharp.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\bin\Debug\DAL.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\bin\Debug\itextsharp.xml
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CopyComplete

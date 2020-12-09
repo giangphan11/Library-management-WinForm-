@@ -13,6 +13,6 @@ namespace DTO
         public string MaChucVu { get; set; }
         public string TaiKhoan { get; set; }
         public string MatKhau { get; set; }
-        public int Quyen { get; set; }
+        public string Anh { get; set; }
     }
 }

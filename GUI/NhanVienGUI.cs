@@ -114,7 +114,7 @@ namespace GUI
                         NV.MaChucVu = cbMaCVu.SelectedValue.ToString();
                         NV.TaiKhoan = txtTaiKhoan.Text;
                         NV.MatKhau = txtMatKhau.Text;
-                        lopnv.Sua(NV.MaNV, NV.HoTen, NV.MaChucVu, NV.TaiKhoan, NV.MatKhau, NV.Quyen);
+                        //lopnv.Sua(NV.MaNV, NV.HoTen, NV.MaChucVu, NV.TaiKhoan, NV.MatKhau, NV.Quyen);
                         MessageBox.Show("Sửa thành công!", "Notification", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         LoadData();
 
@@ -171,17 +171,17 @@ namespace GUI
                     NV.MaChucVu = cbMaCVu.SelectedValue.ToString();
                     NV.TaiKhoan = txtTaiKhoan.Text;
                     NV.MatKhau = txtMatKhau.Text;
-                    NV.Quyen = 1;
+                    NV.MaChucVu = "CV01";
                     if ("Admin".Equals(cbQuyen.SelectedItem))
                     {
-                        NV.Quyen = 1;
+                        NV.MaChucVu = "CV01";
                     }
                     else
                     {
-                        NV.Quyen = 0;
+                        NV.MaChucVu = "CV02";
                     }
 
-                    lopnv.Them(NV.MaNV, NV.HoTen, NV.MaChucVu, NV.TaiKhoan, NV.MatKhau, NV.Quyen);
+                    //lopnv.Them(NV.MaNV, NV.HoTen, NV.MaChucVu, NV.TaiKhoan, NV.MatKhau, NV.Quyen);
                     MessageBox.Show("Thêm thành công!", "Notification", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                     LoadData();

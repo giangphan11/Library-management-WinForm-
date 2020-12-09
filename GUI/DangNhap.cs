@@ -39,7 +39,7 @@ namespace GUI
             string ma = "";
             foreach(NhanVien nv in list)
             {
-                if (nv.Quyen != 1) {
+                if (nv.MaChucVu != "CV01") {
                     redirect = false;
                 }
                 ma = nv.MaNV;

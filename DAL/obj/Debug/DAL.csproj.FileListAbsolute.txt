@@ -81,3 +81,12 @@ C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan l
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\DAL\obj\Debug\DAL.dll
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DAL\bin\Debug\DTO.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DAL\bin\Debug\DTO.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\DAL\obj\Debug\DAL.csproj.CopyComplete

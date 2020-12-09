@@ -101,3 +101,14 @@ C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan l
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\BUS\obj\Debug\BUS.dll
 C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\Phan mem quan ly thu vien\BTL_Nhom5_QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\BUS\bin\Debug\DAL.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\BUS\bin\Debug\DTO.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\BUS\bin\Debug\DAL.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\GIANGPHAN\Downloads\BTL_Nhom5_Windows\BTL_Nhom5_Windows\qltv\BTL_Nhom5_QuanLyThuVien\BUS\obj\Debug\BUS.pdb
